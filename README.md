@@ -1,4 +1,4 @@
-# RG-ESKF Public Dataset (Vision–IMU Time Series)
+# Public Dataset (Vision–IMU Time Series)
 
 
 This repository provides time-synchronized vision-based relative attitude measurements and camera-platform IMU recordings collected from our semi-physical hardware-in-the-loop setup, together with the corresponding ground-truth target angular velocity and angular-momentum (H-axis) direction for each test scenario described in the manuscript.
